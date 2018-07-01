@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/npm/l/steam-market-manager.svg?style=flat-square)](https://github.com/SeJIya/steamcardfarmer/blob/master/LICENSE)
+[![steam](https://img.shields.io/badge/steam-donate-green.svg?style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=54149780&token=svR3dNOY)
+
 # mail.ru-Regger
 Chrome extension for semi-auto registrations mail accounts in mail.ru and save in database
 
