@@ -10,12 +10,12 @@
 			"js": [ "js/jquery.js", "js/regger.js" ],
 			"matches": ["*://account.mail.ru/signup/simple"],
 			"run_at": "document_end"
-	   },
-	   {
+	   	},
+	   	{
 			"js": [ "js/jquery.js", "js/verify.js" ],
-			"matches": ["*://e.mail.ru/messages/inbox?newreg=1&signup_b=1&sms_reg=1&features=1"],
+			"matches": ["*://e.mail.ru/messages/inbox?newreg=1&signup_b=1&sms_reg=1&features=1", "*://e.mail.ru/inbox/?newreg=1&signup_b=1&sms_reg=1&features=1"],
 			"run_at": "document_end"
-	   }
+	   	}
 	],
 	"permissions": [
 		"http://account.mail.ru/",
